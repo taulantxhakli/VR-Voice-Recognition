@@ -61,6 +61,9 @@ This is the table of all the commands that were required for the project and if 
 | Home | Yes | It will allow the user to reset the scene and return everything to how it is initially. This will reset the user to the starting position in an instant without load time. |
 | (Secret Command) | Yes | You will need to look into the code I wrote to figure that one out. Should be a fun surprise. |
 
+With the commands done, the focus was shifted to the scene itself and how it can be improved.
+Thanks to the contribution from [Makendy Midouin](https://github.com/makendym), the blocks around the scene have been placed with a slow Ping Pong animation calmly animate through its sequences and back. There are invisible walls around the plane as well, to ensure that the player does not fall off. Though, there is no invisible ceiling, as through testing it does not provide a smooth upward and downward movement. Having the ability to float as high as the player wants allows for more possibilities of different angles of the scene to be viewed and provides more integral use for the Home command. All this create a calming experience in VR with voice recognition to apply movement to a VR controller, which was achieved.
+
 
   ## Table of Contents
 <<to be entered>>
