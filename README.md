@@ -75,7 +75,18 @@ This is the table of all the commands that were required for the project and if 
 
   
   ## Sneak-Peek
-<<to be entered>>
+
+  <p align="center">
+    <img src="take_1.gif">
+  </p>
+  
+  <p align="center">
+    <img src="pic.jpg">
+  </p>
+  
+  <p align="center">
+    <img src="take_2.gif">
+  </p>
 
   
   ## Contributing
