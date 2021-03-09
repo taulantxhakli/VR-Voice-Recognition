@@ -66,7 +66,9 @@ Thanks to the contribution from [Makendy Midouin](https://github.com/makendym), 
 
 
   ## Table of Contents
-<<to be entered>>
+  * [Sneak-Peek](#sneak-peek)
+  * [Contributing](#contributing)
+  * [Questions?](#questions)
   
   ## Sneak-Peek
 <<to be entered>>
