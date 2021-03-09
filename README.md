@@ -1,7 +1,14 @@
 # VR Voice Recognition
   
+  ## Table of Contents
+  * [Description](#description)
+  * [Table](#table)
+  * [Sneak-Peek](#sneak-peek)
+  * [Contributing](#contributing)
+  * [Questions?](#questions)
   
-  ## Description of the Project
+  
+  ## Description
   
 With virtual reality expanding daily with new innovations and implementations, there is
 always room to invent. Movement in VR is important, it is what keeps the user immersed in the
@@ -44,6 +51,8 @@ debris are animated to simulate the theme. Each have regular colliders, so that 
 in front of the obstacle. With the SetVelocity set in place, the capsule collider does not shake
 when stopped by an obstacle.
 
+  ## Table
+
 This is the table of all the commands that were required for the project and if they have been implemented:
 
 | Commands | Yes/No | Comment |
@@ -64,11 +73,6 @@ This is the table of all the commands that were required for the project and if 
 With the commands done, the focus was shifted to the scene itself and how it can be improved.
 Thanks to the contribution from [Makendy Midouin](https://github.com/makendym), the blocks around the scene have been placed with a slow Ping Pong animation calmly animate through its sequences and back. There are invisible walls around the plane as well, to ensure that the player does not fall off. Though, there is no invisible ceiling, as through testing it does not provide a smooth upward and downward movement. Having the ability to float as high as the player wants allows for more possibilities of different angles of the scene to be viewed and provides more integral use for the Home command. All this create a calming experience in VR with voice recognition to apply movement to a VR controller, which was achieved.
 
-
-  ## Table of Contents
-  * [Sneak-Peek](#sneak-peek)
-  * [Contributing](#contributing)
-  * [Questions?](#questions)
   
   ## Sneak-Peek
 <<to be entered>>
