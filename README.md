@@ -91,7 +91,7 @@ This is the table of all the commands that were required for the project and if 
   
   ## Contributing
   
-  Contributions are always accepted. I put together this project in a very short amount of time for my CS 320 Gaming class in my Junior year while I was attending St. Thomas Aquinas College. There is never no room for improvement. 
+  Contributions are always accepted. There is never no room for improvement. 
   
   ---
   
