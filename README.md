@@ -102,7 +102,3 @@ This is the table of all the commands that were required for the project and if 
   For any business related questions, please contact me through my email:
   
   Email: txhakli@gmail.com
-  
-  For just chatting and getting to know me on an unprofessional level:
-  
-  Discord: taulant#1999
