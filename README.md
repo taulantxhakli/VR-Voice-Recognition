@@ -97,8 +97,6 @@ This is the table of all the commands that were required for the project and if 
   
   ## Questions?
   
-  ![Developer Profile Picture](https://avatars.githubusercontent.com/u/58316986?s=460&u=b6d47b95334d6366fb3a422f40454ac40f571a9f&v=4) 
-  
   For any business related questions, please contact me through my email:
   
   Email: txhakli@gmail.com
